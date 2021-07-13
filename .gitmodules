@@ -1,0 +1,6 @@
+[submodule "themes/dream2"]
+	path = themes/dream2
+	url = https://github.com/g1eny0ung/hugo-theme-dream
+[submodule "hugo-theme-chunky-poster"]
+	path = hugo-theme-chunky-poster
+	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
