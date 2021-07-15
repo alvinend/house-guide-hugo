@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>トマロウ</title>
-    <link>http://example.org/</link>
+    <link>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/</link>
     <description>Recent content on トマロウ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Jul 2017 14:15:59 -0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2017 14:15:59 -0600</lastBuildDate><atom:link href="http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>回線契約について</title>
-      <link>http://example.org/posts/about-internet/</link>
+      <link>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/about-internet/</link>
       <pubDate>Mon, 10 Jul 2017 14:15:59 -0600</pubDate>
       
-      <guid>http://example.org/posts/about-internet/</guid>
+      <guid>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/about-internet/</guid>
       <description>快適にオンライン授業を受けるためには高速なインターネット回線が不可欠となります。
 大まかな種類と注意点をまとめます。。。</description>
     </item>
     
     <item>
       <title>敷金・礼金について​</title>
-      <link>http://example.org/posts/extra-cost/</link>
+      <link>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/extra-cost/</link>
       <pubDate>Mon, 10 Jul 2017 14:15:59 -0600</pubDate>
       
-      <guid>http://example.org/posts/extra-cost/</guid>
+      <guid>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/extra-cost/</guid>
       <description>敷金、礼金はどちらもアパートを借りるとき必要になる費用です。それぞれ支払う意味が異なります。。。。</description>
     </item>
     
     <item>
       <title>火災保険について</title>
-      <link>http://example.org/posts/fire-insurance/</link>
+      <link>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/fire-insurance/</link>
       <pubDate>Mon, 10 Jul 2017 14:15:59 -0600</pubDate>
       
-      <guid>http://example.org/posts/fire-insurance/</guid>
+      <guid>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/fire-insurance/</guid>
       <description>​日本でアパートを契約するとき、必ず｢火災保険｣への加入を求められます。この火災保険とはどういうものなのでしょうか。
 ​仮に誰かが入居したアパートの部屋で火事を起こしてしまったとします。その部屋は管理者(大家さんや管理会社)の持ち物ですから。。。</description>
     </item>
     
     <item>
       <title>築年数と耐震について</title>
-      <link>http://example.org/posts/building-age/</link>
+      <link>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/building-age/</link>
       <pubDate>Mon, 10 Jul 2017 14:15:59 -0600</pubDate>
       
-      <guid>http://example.org/posts/building-age/</guid>
-      <description>​日本でアパートを契約するとき、必ず｢火災保険｣への加入を求められます。この火災保険とはどういうものなのでしょうか。
-​仮に誰かが入居したアパートの部屋で火事を起こしてしまったとします。その部屋は管理者(大家さんや管理会社)の持ち物ですから。。。</description>
+      <guid>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/building-age/</guid>
+      <description>​
+建物が完成した後、経過した年数の事です。例：2021年現在、1995年に建てられた建物の築年数は「26年」です。特に、築年数1年未満のものを「新築」と呼びます。​。。。</description>
     </item>
     
     <item>
       <title>賃貸を契約する時の保証人について</title>
-      <link>http://example.org/posts/about-contract/</link>
+      <link>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/about-contract/</link>
       <pubDate>Mon, 10 Jul 2017 14:15:59 -0600</pubDate>
       
-      <guid>http://example.org/posts/about-contract/</guid>
+      <guid>http://tomarou-public-bucket.s3-website-ap-northeast-1.amazonaws.com/posts/about-contract/</guid>
       <description>保証人とは、契約者が問題を起こしたときにその問題に対して責任を負う人の事です。一般的に賃貸を契約する場合には必ず必要になってくるものです。日本人でも、外国人でも変わりません。ところが、留学生の場合はこの保証人を確保するのが少し難しい問題があるかもしれません。。。。</description>
     </item>
     
